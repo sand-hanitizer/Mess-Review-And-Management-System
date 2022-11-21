@@ -18,7 +18,7 @@ if(!$con){
 <body>
     <center>
         <h1>Fill this form for your feedback</h1>
-        <h4><em>your feedback matters!</em></h4>
+        <h4><em>Your feedback matters!</em></h4>
         <hr width=30% color="red">
         <form action="">
             <label for="id">ID: </label><input type="text"><br>
